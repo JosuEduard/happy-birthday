@@ -41,6 +41,10 @@ body {
   font-size: 4.5rem;
 }
 
+.lydia-dp{
+  width: 350px;
+}
+
 .one > img {
   vertical-align: middle;
   margin-bottom: 10px;
@@ -255,6 +259,9 @@ body {
   .six .hat {
     left: 32%;
   }
+  .lydia-dp{
+    width: 275px;
+  }
 }
 
 @media screen and (max-width: 500px) {
@@ -264,6 +271,9 @@ body {
 
   .four .text-box {
     width: 90%;
+  }
+  .lydia-dp{
+    width: 250px;
   }
 
   .text-box .fake-btn {
